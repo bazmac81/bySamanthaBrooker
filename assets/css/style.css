@@ -22,6 +22,7 @@ hr {
 
 .logos {
     text-align: right;
+    font-weight: 150%;
     font-size: 72px;
     line-height: 50px;
     margin-top: 50px;
@@ -119,7 +120,7 @@ h1 {
 }
 
 #pal2-col1 {
-    background-color: #5f5449;
+    background-color: #803500;
 }
 #pal2-col2 {
     background-color: #9b6a6c;
