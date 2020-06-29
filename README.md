@@ -7,7 +7,12 @@ Logo
 ## Contents
 
 1. [UX Development](#uxdev)
-2. [Acknowledgements](#acknowledge)
+   - sdaf 
+2. [Testing](#testing)
+3. [Bugs and De-bugging](#bugs)
+4. [Technologies Used](#tech)
+5. [Project Deployment](#deployment)
+4. [Acknowledgements](#acknowledge)
 
 -------------
 
@@ -37,20 +42,26 @@ _[Back to Contents](#Contents)_
 
 -------------
 
-## Testing
+## Testing <a name="testing"></a>
 - HTML and CSS check using WC3
 
--------------
-## Bugs and De-bugging
+_[Back to Contents](#Contents)_
 
 -------------
-## Languages & Used
+## Bugs and De-bugging <a name="bugs"></a>
+
+
+_[Back to Contents](#Contents)_
+
+-------------
+## Technologies Used <a name="tech"></a>
+
+### Languages & Used
 - HTML5 - base content creation
 - CSS3 - site styling
 - Javascript - Although not in scope to be used, was required to deliver responsive menu functionality
 
--------------
-## Tools and Libraries Used
+### Tools and Libraries Used
 - GitPod, Git and GitHub - Used to create code, manage version control and host the project
 - Balsamiq - Wireframing tool for README and project planning stages
 - Bootstrap - CSS framework for page layouts
@@ -59,8 +70,10 @@ _[Back to Contents](#Contents)_
 - Font Awesome - for iconography throughout the site
 - pexels - royalty free stock images
 
+_[Back to Contents](#Contents)_
+
 --------------
-## Project Deployment
+## Project Deployment <a name="deployment"></a>
 
 Detailed below is how this project has been deployed and also contains information should you wish to use locally on your machine. The project has been created and managed using Git in GitPod pushing all code to GitHub which is included in the below instructions.
 
@@ -90,8 +103,10 @@ _or_
    - Once downloaded, extract this to your chosen directory
 4. Full details and support for creating a clone can be found [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
+_[Back to Contents](#Contents)_
+
 -------------
-## References
+## References <a name="references"></a>
 
 Support files on Code Institute's Slack space
 - [Getting Started on First Milestone Project](https://code-institute-room.slack.com/files/UNVL7B49K/F0145CW2CRZ/ucfd_call_22may2020.pdf)
@@ -99,6 +114,9 @@ Support files on Code Institute's Slack space
 
 Reference sites to build knowledge on technologies covered in the first 3 modules of the coures:
 - [coomonmark.org](https://commonmark.org/help/) - to better understand markd down for creating the README.md file
+
+_[Back to Contents](#Contents)_
+
 -------------
 ## Acknowledgements <a name="acknowledge"></a>
 Thanks go to a  number of people that have helped support me in pulling together my first project.
@@ -112,3 +130,4 @@ Fellow students for sharing their work as examples:
 
 The team on Slack for their general helpfulness and motivation!
 
+_[Back to Contents](#Contents)_
