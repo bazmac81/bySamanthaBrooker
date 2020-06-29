@@ -100,7 +100,7 @@ Support files on Code Institute's Slack space
 Reference sites to build knowledge on technologies covered in the first 3 modules of the coures:
 - [coomonmark.org](https://commonmark.org/help/) - to better understand markd down for creating the README.md file
 -------------
-## Acknowledgements <a name="#acknowledge"></a>
+## Acknowledgements <a name="acknowledge"></a>
 Thanks go to a  number of people that have helped support me in pulling together my first project.
 
 My mentor Can, thanks for your time and guiding me through pulling this together.
