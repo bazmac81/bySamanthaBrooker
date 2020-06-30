@@ -1,5 +1,3 @@
-Logo
-
 # By Samantha Brooker
 #### Code Institute Full Stack Development Diploma: Milestone Project 1 - User Centric Web Development
 ##### by Barry MacLennan
@@ -7,12 +5,27 @@ Logo
 ## Contents
 
 1. [UX Development](#uxdev)
-   - sdaf 
+   - Project Goals
+   - User Goals
+   - User Stories
+   - Site Owner Goals
+   - User Requirements & Expectations
+   - Design Choices
+      - Fonts
+      - Icons
+      - Colours
+   - Wireframes
+   - Features & Future Releases 
 2. [Testing](#testing)
 3. [Bugs and De-bugging](#bugs)
 4. [Technologies Used](#tech)
+   - Languages Used
+   - Tools & Libraries Used
 5. [Project Deployment](#deployment)
-4. [Acknowledgements](#acknowledge)
+   - Deployment
+   - Creating a Local Version
+6. [References](#references)
+7. [Acknowledgements](#acknowledge)
 
 -------------
 
@@ -26,8 +39,10 @@ The process for creating the site for the client can be found [here](#) for refe
 ### User Stories
 
 ### Site Owner Goals
+The site owner has the following goals that they wish to achieve from this project:
+- 
 
-### User requirements & Expectations
+### User Requirements & Expectations
 
 ### Design Choices
 #### Fonts 
@@ -56,7 +71,7 @@ _[Back to Contents](#Contents)_
 -------------
 ## Technologies Used <a name="tech"></a>
 
-### Languages & Used
+### Languages Used
 - HTML5 - base content creation
 - CSS3 - site styling
 - Javascript - Although not in scope to be used, was required to deliver responsive menu functionality
@@ -89,7 +104,7 @@ Detailed below is how this project has been deployed and also contains informati
 - *Note: There may be a short delay from selecting the source to the page going live. You will see a green background where your site address is shown to confirm when the page is live*
 
 
-### Creating a local version:
+### Creating a Local Version:
 1. Navigate to the correct repository page **[bazmac81/CI-MSP1-bySamB](https://github.com/bazmac81/CI-MSP1-bySamB)**
 2. Click the green **Clone** button
 3. Depending on how you wish to access the files you can either:
