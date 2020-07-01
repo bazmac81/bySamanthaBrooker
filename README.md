@@ -1,5 +1,5 @@
 # By Samantha Brooker
-#### Code Institute Full Stack Development Diploma: Milestone Project 1 - User Centric Web Development
+#### Code Institute Full Stack Development Diploma: Milestone Project 1 - User Centric Frontend Development
 ##### by Barry MacLennan
 
 ## Contents
@@ -40,7 +40,7 @@ The process for creating the site for the client can be found [here](#) for refe
 
 ### Site Owner Goals
 The site owner has the following goals that they wish to achieve from this project:
-- 
+- To 
 
 ### User Requirements & Expectations
 
@@ -49,7 +49,21 @@ The site owner has the following goals that they wish to achieve from this proje
 #### Icons
 #### Colours
 
-### Wireframe 
+### Wireframes
+To help ensure that the site contains all of the required information I have created simple wireframes as a framework, using the User Stories and Site Owner Goals to ensure that all of the required features for this release are present.
+
+The site is made up of 5 pages, which are shown in the below sitemap:
+![Sitemap](wireframe/sitemap.png)
+
+All of the wireframes were created mobile first, with subsequent wireframes showing the view on a tablet and desktop.
+The wireframes show:
+- Home page
+- Treatments page
+- Why Wax page
+- COVID-19
+- About
+
+Below is the wireframe for the Home page, each of the others can be found following the links in the list above.
 
 ### Features & Future Releases
 
@@ -123,12 +137,13 @@ _[Back to Contents](#Contents)_
 -------------
 ## References <a name="references"></a>
 
-Support files on Code Institute's Slack space
+Support files on Code Institute's Slack space:
 - [Getting Started on First Milestone Project](https://code-institute-room.slack.com/files/UNVL7B49K/F0145CW2CRZ/ucfd_call_22may2020.pdf)
 - [Wireframe to Wire-Fame!](https://code-institute-room.slack.com/files/UNVL7B49K/F014YTXNVEF/ucfd_call_5june2020.pdf)
 
-Reference sites to build knowledge on technologies covered in the first 3 modules of the coures:
+Reference sites to build knowledge on technologies covered in the first 3 modules of the course; HTML Fundamentals, CSS Fundamentals, and User Centric Frontend Development:
 - [coomonmark.org](https://commonmark.org/help/) - to better understand markd down for creating the README.md file
+- [Stormotion.io](https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/) - Tips on how to write good User Stories
 
 _[Back to Contents](#Contents)_
 
