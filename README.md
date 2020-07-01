@@ -14,7 +14,7 @@
       - Fonts
       - Icons
       - Colours
-   - Wireframes
+   - Site Map and Wireframes
    - Features & Future Releases 
 2. [Testing](#testing)
 3. [Bugs and De-bugging](#bugs)
@@ -32,7 +32,7 @@
 ## UX Development <a name="uxdev"></a>
 ### Project Goals
 
-This site is to support a local beauty business, By Samantha Brooker. Sam runs a mobile beauty business and has mainly been relying on her Facebook page to drive business. The website will give her more control over the information available to customers and to allow them to contact her should they wish to employ her services.
+This site is to support a beauty business, By Samantha Brooker, which operates in the Thurrock area of Essex. Sam runs a mobile beauty business and has mainly been relying on her Facebook page to drive business. The website will give her more control over the information available to customers and to allow them to contact her should they wish to employ her services.
 
 After an initial consultation with Sam we have been able to identify the following possible features that she would like to have available and that customers would expect to see when visiting and using the site.
 
@@ -64,7 +64,7 @@ The site owner has the following goals that they wish to achieve from this proje
 #### Icons
 #### Colours
 
-### Wireframes
+### Site Map and Wireframes
 To help ensure that the site contains all of the required information I have created simple wireframes as a framework, using the User Stories and Site Owner Goals to ensure that all of the required features for this release are present.
 
 The site is made up of 5 pages, which are shown in the below sitemap:
@@ -81,13 +81,13 @@ As the Contact Me section isn't a page but a modal, you can see how this will be
 ![contactmemobileview](wireframe/contactmemobileview.png)
 
 - Home page: [Tablet](wireframe/hometabletview.png) | [Desktop](homedesktopview.png)
-- Treatments page: 
-- Why Wax page: 
-- COVID-19: 
-- About: 
-- Contact (modal): 
+- Treatments page: [Mobile](wireframe/treatmentsmobileview.png) | [Tablet](wireframe/treatmentstabletview.png) | [Desktop](wireframe/treatmentsdesktopview.png)
+- Why Wax page: [Mobile](wireframe/) | [Tablet](wireframe/) | [Desktop](wireframe/)
+- COVID-19: [Mobile](wireframe/covidmobileview.png) | [Tablet](wireframe/covidtabletview.png) | [Desktop](wireframe/coviddesktopview.png)
+- About: [Mobile](wireframe/aboutmobileview) | [Tablet](wireframe/abouttabletview.png) | [Desktop](wireframe/aboutdesktopview.png)
+- Contact (modal): [Tablet](wireframe/contacttabletview.png) | [Desktop](wireframe/contactdesktopview.png)
 
-### Features & Future Releases
+### **Features & Future Releases**
 Based on what Sam is looking to achieve and what customers would expect to achieve from visiting her site, a fully functional site should contain the following features to be relevant and fit the needs:
 
 - Show what the business is about
@@ -101,18 +101,18 @@ Based on what Sam is looking to achieve and what customers would expect to achie
 
 For this first release we will be focusing on the features listed in v1.0 scheduled for release July 2020, with the remaining features appearing in future releases:
 
-by Samantha Brooker v1.0 - Release July 2020:
+*by Samantha Brooker v1.0 - Release July 2020*:
 - Show what the business is about
 - Highlight the uniqueness of business - Sam herself. A customer will be seen by her personally each time.
 - Allow customers to make contact with Sam for general enquiries
 - Be mobile friendly with a responsive layout design for a smooth desktop experience
 - Be clean and simple in design and not be perceived as overloaded and cluttered with excessive content
 
-by Samantha Brooker v2.0 (Release date TBC):
+*by Samantha Brooker v2.0 (Release date TBC)*:
 - Linked with Sam’s social media channels to showcase customer / service quality & scope to build a level of trust
 - Allow customers to make a booking
 
-by Samantha Brooker v3.0 (Release date TBC):
+*by Samantha Brooker v3.0 (Release date TBC)*:
 - Allow customers to make full or part payments and track this for easy management of bookings and payments
 
 
