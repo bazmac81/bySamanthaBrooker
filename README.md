@@ -32,11 +32,26 @@
 ## UX Development <a name="uxdev"></a>
 ### Project Goals
 
+This site is to support a local beauty business, By Samantha Brooker. Sam runs a mobile beauty business and has mainly been relying on her Facebook page to drive business. The website will give her more control over the information available to customers and to allow them to contact her should they wish to employ her services.
+
+After an initial consultation with Sam we have been able to identify the following possible features that she would like to have available and that customers would expect to see when visiting and using the site.
+
 ### User Goals
 
 The process for creating the site for the client can be found [here](#) for reference.
 
 ### User Stories
+The users for this site will be women. As the site at this stage is a static site without functionality, all users will be classed as site visitor. For user stories to cater for future features we would introduce a client user. This would be a user that is registered with the site and is looking to interact in some way i.e. make or amend a booking.
+
+- As a **site visitor**, I want to find a **list of services** so that I can **find the treatment I require**
+- As a **site visitor**, I want to find the **prices for the treatments** available so I can **understand the cost of a treatment and any offers**
+- As a **site visitor**, I want to find **contact details** so that I can **enquire about a treatment or a potential booking**
+- As a **site visitor** I want to find **more about the business practice** so that I can **understand what makes this different from other businesses**
+- As a **site visitor**, I want to find information on **how the business is going to manage with COVID** so I am confident **I can book safely**
+- As a **site visitor** I  want to find **customer testimonials** to help understand **quality of service**
+- As a **site visitor** I want to find links to the **business social media** and see other customers reactions and satisfaction to **verify quality of service**
+- As a **site visitor** I want to find information on **why waxing would be better than other methods of hair removal** to understand **level of experience** of business
+- As a **site visitor** I want to find information on the **locations that this business operates in** so that I can understand if **I can book a treatment**
 
 ### Site Owner Goals
 The site owner has the following goals that they wish to achieve from this project:
@@ -73,6 +88,33 @@ As the Contact Me section isn't a page but a modal, you can see how this will be
 - Contact (modal): 
 
 ### Features & Future Releases
+Based on what Sam is looking to achieve and what customers would expect to achieve from visiting her site, a fully functional site should contain the following features to be relevant and fit the needs:
+
+- Show what the business is about
+- Highlight the uniqueness of business - Sam herself. A customer will be seen by her personally each time.
+- Linked with Sam’s social media channels to showcase customer / service quality & scope to build a level of trust
+- Allow customers to make contact with Sam for general enquiries
+- Allow customers to make a booking
+- Be mobile friendly with a responsive layout design for a smooth desktop experience
+- Be clean and simple in design and not be perceived as overloaded and cluttered with excessive content
+- Allow customers to make full or part payments and track this for easy management of bookings and payments
+
+For this first release we will be focusing on the features listed in v1.0 scheduled for release July 2020, with the remaining features appearing in future releases:
+
+by Samantha Brooker v1.0 - Release July 2020:
+- Show what the business is about
+- Highlight the uniqueness of business - Sam herself. A customer will be seen by her personally each time.
+- Allow customers to make contact with Sam for general enquiries
+- Be mobile friendly with a responsive layout design for a smooth desktop experience
+- Be clean and simple in design and not be perceived as overloaded and cluttered with excessive content
+
+by Samantha Brooker v2.0 (Release date TBC):
+- Linked with Sam’s social media channels to showcase customer / service quality & scope to build a level of trust
+- Allow customers to make a booking
+
+by Samantha Brooker v3.0 (Release date TBC):
+- Allow customers to make full or part payments and track this for easy management of bookings and payments
+
 
 _[Back to Contents](#Contents)_
 
