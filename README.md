@@ -53,17 +53,20 @@ The site owner has the following goals that they wish to achieve from this proje
 To help ensure that the site contains all of the required information I have created simple wireframes as a framework, using the User Stories and Site Owner Goals to ensure that all of the required features for this release are present.
 
 The site is made up of 5 pages, which are shown in the below sitemap:
+
 ![Sitemap](wireframe/sitemap.png)
 
 All of the wireframes were created mobile first, with subsequent wireframes showing the view on a tablet and desktop.
-The wireframes show:
-- Home page
-- Treatments page
-- Why Wax page
-- COVID-19
-- About
+Below is the wireframe for the Home page in mobile view, each of the other pages can be found using the links that follow:
 
-Below is the wireframe for the Home page, each of the others can be found following the links in the list above.
+![homepagemobileview](wireframe/homemobileview.png)
+
+- Home page: [Tablet](wireframe/hometabletview.png) | [Desktop](homedesktopview.png)
+- Treatments page: 
+- Why Wax page: 
+- COVID-19: 
+- About: 
+- Contact (modal): 
 
 ### Features & Future Releases
 
