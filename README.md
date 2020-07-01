@@ -57,9 +57,13 @@ The site is made up of 5 pages, which are shown in the below sitemap:
 ![Sitemap](wireframe/sitemap.png)
 
 All of the wireframes were created mobile first, with subsequent wireframes showing the view on a tablet and desktop.
-Below is the wireframe for the Home page in mobile view, each of the other pages can be found using the links that follow:
+Below is the wireframe for the Home page in mobile view.
 
 ![homepagemobileview](wireframe/homemobileview.png)
+
+As the Contact Me section isn't a page but a modal, you can see how this will behave below. Each of the other pages and device views can be found using the links that follow:
+
+![contactmemobileview](wireframe/contactmemobileview.png)
 
 - Home page: [Tablet](wireframe/hometabletview.png) | [Desktop](homedesktopview.png)
 - Treatments page: 
