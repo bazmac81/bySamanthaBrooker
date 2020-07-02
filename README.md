@@ -80,11 +80,11 @@ As the Contact Me section isn't a page but a modal, you can see how this will be
 
 ![contactmemobileview](wireframe/contactmemobileview.png)
 
-- Home page: [Tablet](wireframe/hometabletview.png) | [Desktop](homedesktopview.png)
+- Home page: [Tablet](wireframe/hometabletview.png) | [Desktop](wireframe/homedesktopview.png)
 - Treatments page: [Mobile](wireframe/treatmentsmobileview.png) | [Tablet](wireframe/treatmentstabletview.png) | [Desktop](wireframe/treatmentsdesktopview.png)
 - Why Wax page: [Mobile](wireframe/) | [Tablet](wireframe/) | [Desktop](wireframe/)
 - COVID-19: [Mobile](wireframe/covidmobileview.png) | [Tablet](wireframe/covidtabletview.png) | [Desktop](wireframe/coviddesktopview.png)
-- About: [Mobile](wireframe/aboutmobileview) | [Tablet](wireframe/abouttabletview.png) | [Desktop](wireframe/aboutdesktopview.png)
+- About: [Mobile](wireframe/aboutmobileview.png) | [Tablet](wireframe/abouttabletview.png) | [Desktop](wireframe/aboutdesktopview.png)
 - Contact (modal): [Tablet](wireframe/contacttabletview.png) | [Desktop](wireframe/contactdesktopview.png)
 
 ### **Features & Future Releases**
