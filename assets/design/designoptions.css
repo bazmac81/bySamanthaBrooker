@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Devonshire&family=Eczar&family=Gentium+Basic&family=Kristi&family=Libre+Baskerville&family=Libre+Franklin&family=Proza+Libre&family=Rubik&family=Shadows+Into+Light&family=Taviraj&family=Trirong&family=Work+Sans&display=swap');
+
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+p {
+    font-size: 14px;
+    font-family: arial;
+}
+
+hr {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #e0e0e0;
+}
+
+/*--------------------------------- Logo samples */
+
+.logos {
+    text-align: right;
+    font-size: 72px;
+    line-height: 50px;
+    margin-top: 50px;
+}
+
+#logo1 { 
+    font-family: "Kristi", serif;
+}
+
+#logo2 {    
+    font-family: "Devonshire", serif;
+}
+
+#logo3 {
+    font-family: "Shadows into Light", serif;
+}
+
+/*--------------------------------- Content font options */
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.fonts {
+    width: 80%;
+    padding: 10px;
+}
+
+.fonts p {
+  margin-top: 5px;
+  padding-top: 10px;
+}
+
+#fonts1 h1 {
+    font-family: "Libre Franklin", serif;
+}
+
+#fonts1 p {
+    font-family: "Libre Baskeville", serif;
+}
+
+#fonts2 h1 {
+    font-family: "Eczar", serif;
+}
+
+#fonts2 p {
+    font-family: "Gentium Basic", serif;
+}
+
+#fonts3 h1 {
+    font-family: "Trirong", serif;
+}
+
+#fonts3 p {
+    font-family: "Rubik", serif;
+}
+
+/*---------------------------------  Color Pallette Options*/
+
+.pallette-color {
+    height: 50px;
+    width: 50px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 2px;
+}
+
+.pal-option {
+    margin-top: 25px;
+}
+
+.swatch {
+    padding: 0;
+}
+
+#pal1-col1{
+    background-color: #54442b;
+}
+#pal1-col2 {
+    background-color: #011638;
+}
+
+#pal1-col3 {
+    background-color: #dc7f9b;
+}
+#pal1-col4
+{
+    background-color: #e1dabd;
+}
+
+#pal2-col1 {
+    background-color: #5f5449;
+}
+#pal2-col2 {
+    background-color: #9b6a6c;
+}
+#pal2-col3 {
+    background-color: #779fa1;
+}
+#pal2-col4 {
+    background-color: #efd5c3;
+}
+#pal3-col1 {
+    background-color: #26547c;
+}
+#pal3-col2 {
+    background-color: #8f5c38;
+}
+#pal3-col3 {
+    background-color: #ef959c;
+}
+#pal3-col4 {
+    background-color: #f7f4ea;
+}
