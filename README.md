@@ -217,6 +217,9 @@ Support files on Code Institute's Slack space:
 - [Getting Started on First Milestone Project](https://code-institute-room.slack.com/files/UNVL7B49K/F0145CW2CRZ/ucfd_call_22may2020.pdf)
 - [Wireframe to Wire-Fame!](https://code-institute-room.slack.com/files/UNVL7B49K/F014YTXNVEF/ucfd_call_5june2020.pdf)
 
+Reference Books I have used when building this site:
+- [HTML & CSS: Design and build websites by Jon Duckett](http://www.htmlandcssbook.com/) - to easily look up key terms / attribute names etc.
+
 Reference sites to build knowledge on technologies covered in the first 3 modules of the course; HTML Fundamentals, CSS Fundamentals, and User Centric Frontend Development:
 - [coomonmark.org](https://commonmark.org/help/) - to better understand markd down for creating the README.md file
 - [Stormotion.io](https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/) - Tips on how to write good User Stories
