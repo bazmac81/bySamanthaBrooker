@@ -68,32 +68,45 @@ The site owner has the following goals that they wish to achieve from this proje
 ### User Requirements & Expectations
 
 ### Design Choices
+Sam has been using a logo on some of her social media channels since she setup her business. The thing she was keen to do was ensure it represents the personal touch that comes from her being a sole trader and the person that her customers will interact with.
+
+Sam was happy for me to develop her logo further so I provided 3 options for her to choose from. 
+
+I have created a design folder to hold the sample files relating to this project for reference. These design options can be found [here](design/designoptions.html) and include logo samples, font choices and colours, which are listed in a little more detail below.
+
 #### Fonts 
-#### Icons
+In keeping with the logo font I wanted to provide fonts that felt a little crafted and not too modern or system generated. I found these pairings in Google Fonts and put them together in a collection for Sam to choose her preferred combination. The key was they were easy to read as well as suiting the them of the site.
+
 #### Colours
+Sam already had some simple colours in her logo,which are bronze to dusky pink gradient. I wanted to expand on these colours to add more interest to the site but still keep in mind the style and theme. These colours a muted and soft. Also when building the site contrast needs to be a factor and so these colour combinations should give the site personality while also allowing the content to be easily seen / read.
+
+#### Icons
+In addition to the fonts and colourway, there are a few icons to be used through the site. These are sourced from Font Awesome and will be used for Contact Me and social media links. 
+
+The final choices Sam made can be found [here](design/designfinal.html)
 
 ### Site Map and Wireframes
 To help ensure that the site contains all of the required information I have created simple wireframes as a framework, using the User Stories and Site Owner Goals to ensure that all of the required features for this release are present.
 
 The site is made up of 5 pages, which are shown in the below sitemap:
 
-![Sitemap](wireframe/sitemap.png)
+![Sitemap](design/wireframe/sitemap.png)
 
 All of the wireframes were created mobile first, with subsequent wireframes showing the view on a tablet and desktop.
 Below is the wireframe for the Home page in mobile view.
 
-![homepagemobileview](wireframe/homemobileview.png)
+![homepagemobileview](design/wireframe/homemobileview.png)
 
 As the Contact Me section isn't a page but a modal, you can see how this will behave below. Each of the other pages and device views can be found using the links that follow:
 
-![contactmemobileview](wireframe/contactmemobileview.png)
+![contactmemobileview](design/wireframe/contactmemobileview.png)
 
-- Home page: [Tablet](wireframe/hometabletview.png) | [Desktop](wireframe/homedesktopview.png)
-- Treatments page: [Mobile](wireframe/treatmentsmobileview.png) | [Tablet](wireframe/treatmentstabletview.png) | [Desktop](wireframe/treatmentsdesktopview.png)
-- Why Wax page: [Mobile](wireframe/) | [Tablet](wireframe/) | [Desktop](wireframe/)
-- COVID-19: [Mobile](wireframe/covidmobileview.png) | [Tablet](wireframe/covidtabletview.png) | [Desktop](wireframe/coviddesktopview.png)
-- About: [Mobile](wireframe/aboutmobileview.png) | [Tablet](wireframe/abouttabletview.png) | [Desktop](wireframe/aboutdesktopview.png)
-- Contact (modal): [Tablet](wireframe/contacttabletview.png) | [Desktop](wireframe/contactdesktopview.png)
+- Home page: [Tablet](design/wireframe/hometabletview.png) | [Desktop](design/wireframe/homedesktopview.png)
+- Treatments page: [Mobile](design/wireframe/treatmentsmobileview.png) | [Tablet](design/wireframe/treatmentstabletview.png) | [Desktop](design/wireframe/treatmentsdesktopview.png)
+- Why Wax page: [Mobile](design/wireframe/) | [Tablet](design/wireframe/) | [Desktop](design/wireframe/)
+- COVID-19: [Mobile](design/wireframe/covidmobileview.png) | [Tablet](design/wireframe/covidtabletview.png) | [Desktop](design/wireframe/coviddesktopview.png)
+- About: [Mobile](design/wireframe/aboutmobileview.png) | [Tablet](design/wireframe/abouttabletview.png) | [Desktop](design/wireframe/aboutdesktopview.png)
+- Contact (modal): [Tablet](design/wireframe/contacttabletview.png) | [Desktop](design/wireframe/contactdesktopview.png)
 
 ### **Features & Future Releases**
 Based on what Sam is looking to achieve and what customers would expect to achieve from visiting her site, a fully functional site should contain the following features to be relevant and fit the needs:
