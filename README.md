@@ -37,8 +37,14 @@ This site is to support a beauty business, By Samantha Brooker, which operates i
 After an initial consultation with Sam we have been able to identify the following possible features that she would like to have available and that customers would expect to see when visiting and using the site.
 
 ### User Goals
+Users of this site will be visiting for a number of reasons byt the primary reasons will be:
+- Find you what treatments and services Sam has to offers
+- Find out the cost of the treatments and services Sam offers
+- Book an appiontment for a treatment with Sam.
 
-The process for creating the site for the client can be found [here](#) for reference.
+In a fully functioning web app, users would expect to be able to pay for their appointment online. Particularly as contactless and card paymetns rise in place of cash payemnts.
+
+Below you will find more detailed user stories that help define the above goals and will be used in determing the feature set of the web site in this first release.
 
 ### User Stories
 The users for this site will be women. As the site at this stage is a static site without functionality, all users will be classed as **site visitor**. For user stories to cater for future features we would introduce a **client** user. This would be a user that is registered with the site and is looking to interact in some way i.e. make or amend a booking.
