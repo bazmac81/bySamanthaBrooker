@@ -41,7 +41,7 @@ After an initial consultation with Sam we have been able to identify the followi
 The process for creating the site for the client can be found [here](#) for reference.
 
 ### User Stories
-The users for this site will be women. As the site at this stage is a static site without functionality, all users will be classed as site visitor. For user stories to cater for future features we would introduce a client user. This would be a user that is registered with the site and is looking to interact in some way i.e. make or amend a booking.
+The users for this site will be women. As the site at this stage is a static site without functionality, all users will be classed as **site visitor**. For user stories to cater for future features we would introduce a **client** user. This would be a user that is registered with the site and is looking to interact in some way i.e. make or amend a booking.
 
 - As a **site visitor**, I want to find a **list of services** so that I can **find the treatment I require**
 - As a **site visitor**, I want to find the **prices for the treatments** available so I can **understand the cost of a treatment and any offers**
@@ -55,7 +55,15 @@ The users for this site will be women. As the site at this stage is a static sit
 
 ### Site Owner Goals
 The site owner has the following goals that they wish to achieve from this project:
-- To 
+- Show what the **business is about**
+- Highlight the **uniqueness of business - Sam herself**. A customer will be seen by her **personally** each time.
+- Linked with **Sam’s social media channels** to showcase customer / service quality & scope to build a **level of trust**
+- Allow customers to **make contact with Sam** for general enquiries
+- Allow customers to **make a booking**
+- Be mobile friendly with a **responsive layout design** for a smooth desktop experience
+- Be **clean and simple** in design and not be perceived as overloaded and cluttered with excessive content
+- Allow customers to **make full or part payments** and track this for easy management of bookings and payments
+
 
 ### User Requirements & Expectations
 
