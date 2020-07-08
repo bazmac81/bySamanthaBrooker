@@ -7,10 +7,12 @@
 
 h1 {
     font-family: "Trirong", Arial, sans-serif;
+    font-size: 36px;
+    text-transform: uppercase;
 }
 
 p {
-    font-size: 14px;
+    font-size: 18px;
 }
 
 hr {
@@ -95,53 +97,8 @@ a, a:hover, a:active, a:visited {
     font-family: "Kristi", serif;
 }
 
-/*--------------------------------- Content font options */
 
-p {
-    font-size: 18px;
-}
-
-h1 {
-    font-size: 36px;
-    text-transform: uppercase;
-}
-
-.fonts {
-    width: 80%;
-    padding: 10px;
-}
-
-.fonts p {
-  margin-top: 5px;
-  padding-top: 10px;
-}
-
-#fonts3 h1 {
-    font-family: "Trirong", serif;
-}
-
-#fonts3 p {
-    font-family: "Rubik", serif;
-}
-
-/*---------------------------------  Color Pallette Options*/
-
-.pallette-color {
-    height: 50px;
-    width: 50px;
-    border: 1px solid #e0e0e0;
-    border-radius: 5px;
-    margin: 2px;
-    padding: 2px;
-}
-
-.pal-option {
-    margin-top: 25px;
-}
-
-.swatch {
-    padding: 0;
-}
+/*---------------------------------  Color Pallette 
 
 #pal2-col1 {
     background-color: #803500;
@@ -155,3 +112,5 @@ h1 {
 #pal2-col4 {
     background-color: #efd5c3;
 }
+
+*/
