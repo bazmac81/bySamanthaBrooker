@@ -1,14 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Kristi&family=Rubik:wght@300;400;700&family=Trirong:wght@100;400;700&display=swap');
 
+/*--------------------------------- Base formatting */
 * {
-    padding: 0;
-    border: 0;
-    margin: 0;
+    font-family: "Rubik", Arial, sans-serif;
+}
+
+h1 {
+    font-family: "Trirong", Arial, sans-serif;
 }
 
 p {
     font-size: 14px;
-    font-family: arial;
 }
 
 hr {
@@ -18,17 +20,78 @@ hr {
     border: 1px solid #e0e0e0;
 }
 
-/*--------------------------------- Logo samples */
-
-.logos {
-    text-align: right;
-    font-weight: 150%;
-    font-size: 72px;
-    line-height: 50px;
-    margin-top: 50px;
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
 }
 
-#logo1 { 
+/*---------------------------------- Links */
+
+a, a:hover, a:active, a:visited {
+    text-decoration: none;
+    color: #000;
+}
+
+
+/*--------------------------------- Header & Navbar */
+
+.logo {
+    width: 160px;
+    text-align: right;
+    font-size: 48px;
+    line-height: 35px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar li {
+    padding-left: 10px;
+}
+
+.navbar-nav li a:hover {
+    background-color: #9b6a6c;
+    color: #efd5c3;
+    background-clip: padding;
+}
+
+#navbarNav {
+    position: absolute;
+    width: 50%;
+    right: 0;
+    margin-top: 210px;
+    background-color: #fff;
+    z-index: 1;
+}
+
+.active {
+    background-color: #efd5c3;
+    color: #779fa1;
+}
+
+.alert-container {
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.site-wide-alert {
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+.btn--cta {
+    margin-right: 10px; 
+    font-weight: bold;
+    background-color: #803500;
+    color: #efd5c3;
+}
+
+#logo a, sup { 
     font-family: "Kristi", serif;
 }
 
