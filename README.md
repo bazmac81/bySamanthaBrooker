@@ -224,6 +224,7 @@ Reference sites to build knowledge on technologies covered in the first 3 module
 - [coomonmark.org](https://commonmark.org/help/) - to better understand markd down for creating the README.md file
 - [Stormotion.io](https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/) - Tips on how to write good User Stories
 - [lullabot.com](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility) - to understand more on ARIA in making websites accessible
+- [medium.com](https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71) - Better understand how to manipulate the navbar elements of Bootstrap
 _[Back to Contents](#Contents)_
 
 -------------
