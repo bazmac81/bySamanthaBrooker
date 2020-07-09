@@ -88,6 +88,13 @@ a, a:hover, a:active, a:visited {
     border-radius: 0;
     margin-bottom: 0;
     padding: 5px;
+    background-color: #9b6a6c;
+    border-color: #803500;
+    border: 2px 0 2px 0;
+}
+
+.site-wide-alert a{
+    color: #fff;
 }
 
 .btn--cta {
