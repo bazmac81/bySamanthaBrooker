@@ -3,8 +3,6 @@
 /*--------------------------------- Base formatting */
 * {
     font-family: "Rubik", Arial, sans-serif;
-    padding-left: 0;
-    padding-right: 0;
 }
 
 h1, h2 {
@@ -135,6 +133,21 @@ a, a:hover, a:active, a:visited {
     padding-left: 40px;
 }
 
+/*--------------------------------- By Samantha's Customers */
+
+.feedback {
+    margin-top: 30px;
+}
+
+.quote {
+    margin-top: 15px;
+}
+
+.quote p {
+    padding: 0 15px 0 15px;
+    font-size: 16px;
+}
+
 /*--------------------------------- Footer */
 .footer {
     border-top: 2px solid #803500;
@@ -147,6 +160,22 @@ a, a:hover, a:active, a:visited {
     font-size: 28px;
     color: #803500;
 }
+
+/*---------------------------------  Separators */
+.section-break {
+    width: 200px;
+    height: 5px;
+    border: 0;
+    background-color: #803500;
+}
+
+.flow-separator {
+    width: 75px;
+    height: 1px;
+    border: 0;
+    background-color: #779fa1;
+}
+
 
 /*---------------------------------  Color Pallette 
 
