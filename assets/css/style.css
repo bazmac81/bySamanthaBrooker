@@ -164,7 +164,7 @@ a, a:hover, a:active, a:visited {
 /*---------------------------------  Separators */
 .section-break {
     width: 200px;
-    height: 5px;
+    height: 3px;
     border: 0;
     background-color: #803500;
 }
