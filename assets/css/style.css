@@ -202,6 +202,12 @@ ol li {
     text-align: left;
 }
 
+/*---------------------------------  About me */
+.location {
+    width: 100%;
+    height: 100%;
+}
+
 /*---------------------------------  Contact me */
 
 .contact-me-link {
