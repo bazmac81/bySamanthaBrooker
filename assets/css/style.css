@@ -107,6 +107,11 @@ a, a:hover, a:visited {
     height: 70vh;
 }
 
+.callout.treatments {
+    background: url("../images/eyebrowtreatment.jpg") no-repeat bottom center;
+    background-size: cover;
+    height: 45vh;
+}
 
 /*---------------------------------  Features */
 
@@ -170,6 +175,16 @@ a, a:hover, a:visited {
 .footer-icon {
     font-size: 28px;
     color: #803500;
+}
+
+/*---------------------------------  Treatments Table */
+.table thead th, .table td {
+    border-color: #803500;
+}
+
+th {
+    background-color: #efd5c3;
+    color: #000;
 }
 
 /*---------------------------------  Separators */
