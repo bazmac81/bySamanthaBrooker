@@ -113,6 +113,11 @@ a, a:hover, a:visited {
     height: 45vh;
 }
 
+.callout.covid {
+    background: url("../images/facemaskmakeup.jpg") no-repeat center center;
+    background-size: cover;
+    height: 45vh;
+}
 /*---------------------------------  Features */
 
 .feature {
@@ -185,6 +190,22 @@ a, a:hover, a:visited {
 th {
     background-color: #efd5c3;
     color: #000;
+}
+
+/*---------------------------------  Covid-19 */
+
+ol {
+    padding-left: 20px;
+}
+
+ol li {
+    text-align: left;
+}
+
+/*---------------------------------  Contact me */
+
+.contact-me-link {
+    color: #803500;
 }
 
 /*---------------------------------  Separators */
