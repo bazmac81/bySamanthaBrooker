@@ -33,11 +33,10 @@ hr {
 
 /*---------------------------------- Links */
 
-a, a:hover, a:active, a:visited {
+a, a:hover, a:visited {
     text-decoration: none;
     color: #000;
 }
-
 
 /*--------------------------------- Header & Navbar */
 
@@ -50,32 +49,34 @@ a, a:hover, a:active, a:visited {
     margin: 5px;
 }
 
-.navbar {
-    padding: 0;
+#logo a, sup { 
+    font-family: "Kristi", serif;
 }
 
-.navbar li {
-    padding-left: 10px;
+.navbar-nav {
+    width: 100%;
 }
 
-.navbar-nav li a:hover {
+.nav-link:hover {
     background-color: #9b6a6c;
-    color: #efd5c3;
-    background-clip: padding;
+    color: #fff;
 }
 
-#navbarNav {
-    position: relative;
-    width: 50%;
-/*    margin-top: 210px;
-    right: 10px;*/
-    background-color: #fff;
-    z-index: 1;
+.nav-item {
+    text-align: center;
+    margin: 0 20px 0 20px;
 }
 
 .active {
-    background-color: #efd5c3;
-    color: #779fa1;
+    border-bottom: 2px solid #779fa1;
+}
+
+.btn--cta {
+    font-weight: bold;
+    text-align: center;
+    background-color: #779fa1;
+    color: #fff;
+    border: 1px solid grey;
 }
 
 .alert-container {
@@ -95,18 +96,6 @@ a, a:hover, a:active, a:visited {
 
 .site-wide-alert a{
     color: #fff;
-}
-
-.btn--cta {
-    margin-right: 10px; 
-    font-weight: bold;
-    background-color: #779fa1;
-    color: #fff;
-    border: 1px solid grey;
-}
-
-#logo a, sup { 
-    font-family: "Kristi", serif;
 }
 
 /*---------------------------------  Callout */
