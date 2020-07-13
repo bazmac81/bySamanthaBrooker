@@ -130,6 +130,20 @@ a, a:hover, a:visited {
     padding-left: 40px;
 }
 
+#feature1 .feature-image{
+    background: url("../images/eyebrowtreatment.jpg") no-repeat bottom center;
+    background-size: cover;
+}
+
+#feature2 .feature-image{
+    background: url("../images/legtreatment.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#feature3 .feature-image{
+    background: url("../images/facemaskmakeup.jpg") no-repeat center center;
+    background-size: cover;
+}
 /*--------------------------------- By Samantha's Customers */
 
 .feedback {
