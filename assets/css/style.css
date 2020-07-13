@@ -101,7 +101,7 @@ a, a:hover, a:visited {
 /*---------------------------------  Callout */
 
 .callout {
-    background: url("../images/mainfaceimage.jpg") no-repeat top center;
+    background: url("../images/mainfaceimage.jpeg") no-repeat center center;
     background-size: cover;
     width: 100%;
     height: 70vh;
