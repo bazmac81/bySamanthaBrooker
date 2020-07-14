@@ -171,15 +171,13 @@ nav .active {
 
 /*--------------------------------- Footer */
 .footer {
-    border-top: 2px solid #803500;
-    border-bottom: 2px solid #803500;
-    background-color: #efd5c3;
+    background-color: #779fa1;
     margin-top: 30px;
 }
 
 .footer-icon {
     font-size: 28px;
-    color: #803500;
+    color: #fff;
 }
 
 /*---------------------------------  Treatments Table */
