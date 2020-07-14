@@ -118,6 +118,12 @@ nav .active {
     background-size: cover;
     height: 45vh;
 }
+
+.callout.about {
+    background: url("../images/samanthabrooker.jpg") no-repeat center center;
+    background-size: cover;
+    height: 45vh;
+}
 /*---------------------------------  Features */
 
 .feature {
