@@ -214,6 +214,11 @@ ol li {
     color: #803500;
 }
 
+.send {
+    background-color: #779fa1;
+    color: #fff;
+}
+
 /*---------------------------------  Separators */
 .section-break {
     width: 200px;
