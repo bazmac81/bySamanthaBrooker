@@ -19,9 +19,9 @@
             </div>
             
             <div class="order-sm-1 d-inline">
-                <div class="btn btn--cta">
+                <button class="btn btn--cta" type="button" data-toggle="modal" data-target="#contactme">
                     <i class="far fa-envelope"></i> Contact Me
-                </div>
+                </button>
             </div>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -103,11 +103,45 @@
             </div>
             <div class="col-4">
                 <a href="#">
-                    <span class="footer-icon"><i class="far fa-envelope"></i></span>
+                    <span class="footer-icon" data-toggle="modal" data-target="#contactme"><i class="far fa-envelope"></i></span>
                 </a>
             </div>
         </div>
     </footer>
+
+<!---------- Contact Me Modal -->
+    <div class="modal fade" id="contactme" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-label="contactMeForm" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content container-fluid">
+                <div class="modal-header">
+                    <h2 class="modal-title">Get in touch...</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Hi, thank you for showing an interest. Please complete the details below if you would like to know more about the treatments I offer or to make a booking. I'll be in contact with you soon.</p>
+                    <form class="row">
+                        <label for="firstname" class="col-form-label col-5">First Name:</label>
+                        <input type="text" id="firstname" class="col-7 form-control" />
+                        <label for="surname" class="col-form-label col-5">Surname:</label>
+                        <input type="text" id="surname" class="col-7 form-control" />
+                        <label for="email" class="col-form-label col-5">Email:</label>
+                        <input type="email" id="email" class="col-7 form-control" placeholder="name@domain.com"/>
+                        <label for="mobile" class="col-form-label col-5">Mobile No:</label>
+                        <input type="number" id="mobile" class="col-7 form-control" placeholder="07700 000000"/>
+                        <label for="postcode" class="col-form-label col-5">Postcode:</label>
+                        <input type="text" id="postcode" class="col-7 form-control" placeholder="SS17 1AB"/>
+                    </form>
+                    <small>I operate mainly in the SS17 (Thurrock, Essex) area but I am open to work in other areas in Essex. By sharing your postcode you help me understand where there is interest.</small>
+                </div>
+                <div class="modal-footer">
+                    <div type="button" class="btn btn-secondary" data-dismiss="modal">Close</div>
+                    <div type="button" class="btn send">Send</div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Bootstrap Javascript CDN for collapsable menu -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
