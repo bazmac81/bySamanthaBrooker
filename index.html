@@ -19,9 +19,9 @@
             </div>
             
             <div class="order-sm-1 d-inline">
-                <div class="btn btn--cta">
+                <button class="btn btn--cta" type="button" data-toggle="modal" data-target="#contactme">
                     <i class="far fa-envelope"></i> Contact Me
-                </div>
+                </button>
             </div>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -211,6 +211,28 @@
             </div>
         </div>
     </footer>
+
+<!---------- Contact Me Modal -->
+<div class="modal fade" id="contactme" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-label="contactMeForm" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">Get in touch</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Get in touch with me!</p>
+            </div>
+            <div class="modal-footer">
+                <div type="button" class="btn btn-secondary" data-dismiss="modal">Close</div>
+                <div type="button" class="btn">Send</div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
     <!-- Bootstrap Javascript CDN for collapsable menu -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
