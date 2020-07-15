@@ -122,17 +122,17 @@ nav .active {
 }
 
 .callout.covid {
-    background: url("../images/facemaskmakeup.jpg");
+    background-image: url("../images/facemaskmakeup.jpg");
     background-position-y: center;
 }
 
 .callout.faq {
-    background: url("../images/facemaskmakeup.jpg");
+    background-image: url("../images/facemaskmakeup.jpg");
     background-position-y: center;
 }
 
 .callout.about {
-    background: url("../images/samanthabrooker.jpg");
+    background-image: url("../images/samanthabrooker.jpg");
     background-position-y: center;
 }
 /*---------------------------------  Features */
