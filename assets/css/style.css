@@ -18,6 +18,7 @@ h2 {
     font-size: 24px;
     font-weight: bold;
     color: #803500;
+    margin-bottom: 20px;
 }
 
 p {
@@ -217,14 +218,35 @@ nav .active {
     color: #fff;
 }
 
-/*---------------------------------  Treatments Table */
+/*---------------------------------  Treatments */
+
+.treatments-list {
+    background-color: #efd5c3
+}
+
+#treatments-list {
+    padding: 30px 0 30px 0;
+}
+
+.table {
+    width: 100%;
+}
+
 .table thead th, .table td {
     border-color: #803500;
 }
 
 th {
-    background-color: #efd5c3;
-    color: #000;
+    background-color: #803500;
+    color: #fff;
+}
+
+td {
+    background-color: #fff;
+}
+
+.consultation {
+    padding: 30px 0 30px 0;
 }
 
 /*---------------------------------  Covid-19 */
