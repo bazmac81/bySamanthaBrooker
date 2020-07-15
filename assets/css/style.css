@@ -103,28 +103,37 @@ nav .active {
 /*---------------------------------  Callout */
 
 .callout {
-    background: url("../images/mainfaceimage.jpg") no-repeat top center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
     width: 100%;
+    height: 45vh;
+}
+
+.callout.main {
+    background-image: url("../images/mainfaceimage.jpg");
+    background-position-y: top;
     height: 70vh;
 }
 
 .callout.treatments {
-    background: url("../images/eyebrowtreatment.jpg") no-repeat bottom center;
-    background-size: cover;
-    height: 45vh;
+    background-image: url("../images/eyebrowtreatment.jpg");
+    background-position-y: bottom;
 }
 
 .callout.covid {
-    background: url("../images/facemaskmakeup.jpg") no-repeat center center;
-    background-size: cover;
-    height: 45vh;
+    background: url("../images/facemaskmakeup.jpg");
+    background-position-y: center;
+}
+
+.callout.faq {
+    background: url("../images/facemaskmakeup.jpg");
+    background-position-y: center;
 }
 
 .callout.about {
-    background: url("../images/samanthabrooker.jpg") no-repeat center center;
-    background-size: cover;
-    height: 45vh;
+    background: url("../images/samanthabrooker.jpg");
+    background-position-y: center;
 }
 /*---------------------------------  Features */
 
