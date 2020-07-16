@@ -225,6 +225,7 @@ Reference sites to build knowledge on technologies covered in the first 3 module
 - [Stormotion.io](https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/) - Tips on how to write good User Stories
 - [lullabot.com](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility) - to understand more on ARIA in making websites accessible
 - [medium.com](https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71) - Better understand how to manipulate the navbar elements of Bootstrap
+- [codepen.io](https://codepen.io/davecross/pen/dpNAQg) - used to create a hover effect for the nav bar links
 _[Back to Contents](#Contents)_
 
 -------------
