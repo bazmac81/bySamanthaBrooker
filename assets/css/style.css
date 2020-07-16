@@ -305,6 +305,7 @@ ol li {
 .card-header {
     background-color: #779fa1;
     background-clip: padding-box;
+    border-bottom: 3px solid #803500;
 }
 
 .card-header:hover {
