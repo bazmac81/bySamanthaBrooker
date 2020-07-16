@@ -58,14 +58,18 @@ a, a:hover, a:visited {
     width: 100%;
 }
 
-.nav-link:hover {
-    background-color: #9b6a6c;
-    color: #fff;
+.nav-item:hover {
+    background-size: 100% 2px, auto;
 }
 
 .nav-item {
     text-align: center;
     margin: 0 10px 0 10px;
+    background-image: linear-gradient(#779fa1,#779fa1), linear-gradient(#fff,#fff);
+    background-size: 0 2px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .2s ease-out;
 }
 
 nav .active {
