@@ -303,8 +303,12 @@ ol li {
 }
 
 .card-header {
-    background-color: #803500;
+    background-color: #779fa1;
     background-clip: padding-box;
+}
+
+.card-header:hover {
+    cursor: pointer;
 }
 
 .card-body h3 {
