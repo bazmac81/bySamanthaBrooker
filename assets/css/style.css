@@ -147,6 +147,7 @@ nav .active {
 
 .card {
     margin: 20px 10px 20px 10px;
+    padding: 0;
 }
 /*
 .feature-image {
@@ -292,6 +293,43 @@ ol li {
 .send {
     background-color: #779fa1;
     color: #fff;
+}
+
+/*---------------------------------  FAQ */
+
+.card-title {
+    margin: 0;
+    color:#fff;
+}
+
+.card-header {
+    background-color: #803500;
+    background-clip: padding-box;
+}
+
+.card-body h3 {
+    font-size: 20px;
+}
+
+.card-body h3::first-letter {
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 120%;
+    color: #803500;
+    letter-spacing: 5px;
+
+}
+
+.list-group-item p:first-of-type:first-letter{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 120%;
+    color: #779fa1;
+    letter-spacing: 5px;
+}
+
+.list-group-item {
+    border: 0;
 }
 
 /*---------------------------------  Separators */
