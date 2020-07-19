@@ -27,14 +27,21 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-                
+
+            <!-- Expand nav in stages, introducing dropdown at mid size screens to prevent overcrowding -->
             <div class="collapse navbar-collapse order-md-0" id="navbarNav">
                 <div class="navbar-nav nav-justified" role="navigation">
                     <a href="index.html" class="nav-item nav-link active">Home</a>
                     <a href="treatments.html" class="nav-item nav-link">Treatments</a>
-                    <a href="covid.html" class="nav-item nav-link">COVID-19</a>
-                    <a href="faq.html" class="nav-item nav-link">FAQ</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
+                    <a class="nav-item nav-link dropdown dropdown-toggle d-lg-none" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More...</a>
+                        <div class="dropdown-menu">
+                            <a href="covid.html" class="dropdown-item">COVID-19</a>
+                            <a href="faq.html" class="dropdown-item">FAQ</a>
+                            <a href="about.html" class="dropdown-item">About</a>
+                        </div>
+                    <a href="covid.html" class="nav-item nav-link d-none d-lg-inline">COVID-19</a>
+                    <a href="faq.html" class="nav-item nav-link d-none d-lg-inline">FAQ</a>
+                    <a href="about.html" class="nav-item nav-link d-none d-lg-inline">About</a>
                 </div>
             </div>
         </nav>
