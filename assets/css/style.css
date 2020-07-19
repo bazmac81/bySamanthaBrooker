@@ -39,7 +39,7 @@ a, a:hover, a:visited {
     color: #000;
 }
 
-p .link {
+p .link, td .link {
     color:#779fa1;
     font-weight: bold;
 }
