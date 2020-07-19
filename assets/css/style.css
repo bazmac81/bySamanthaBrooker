@@ -109,6 +109,10 @@ nav .active {
     font-weight: bold;
 }
 
+.contact-me {
+    margin-right: 10px;
+}
+
 /*---------------------------------  Callout */
 
 .callout {
@@ -296,10 +300,6 @@ ol li {
 
 /*---------------------------------  Contact me */
 
-.contact-me-link {
-    color: #803500;
-}
-
 .send {
     background-color: #779fa1;
     color: #fff;
@@ -362,6 +362,14 @@ ol li {
     background-color: #779fa1;
 }
 
+
+@media (min-width:768px) {
+
+    .logo {
+        width: 200px;
+        font-size: 62px;
+    }
+}
 
 /*---------------------------------  Color Pallette 
 
