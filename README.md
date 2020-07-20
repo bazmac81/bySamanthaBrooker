@@ -149,12 +149,22 @@ _[Back to Contents](#Contents)_
 
 ## Testing <a name="testing"></a>
 - HTML and CSS check using WC3
+- User story review
+- Peer Code Review
+- User testing
 
 _[Back to Contents](#Contents)_
 
 -------------
 ## Bugs and De-bugging <a name="bugs"></a>
 
+Below are the bugs identified and how they have been managed:
+
+- Loading times slow due to image file size
+- Logo rendering causing flickering while applying the relevant Google Font
+- FAQ sections using Bootstrap Accordion focus issue
+- Target of links on homepage Face and Body waxing feature not targeting correct section of treatments page
+- Various typos and spelling corrections
 
 _[Back to Contents](#Contents)_
 
