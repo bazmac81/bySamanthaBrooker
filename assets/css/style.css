@@ -81,6 +81,11 @@ nav .active {
     border-bottom: 2px solid #779fa1;
 }
 
+#dropdown-options{
+    width: 250px;
+    margin-right: 20px;
+}
+
 .btn--cta {
     font-weight: bold;
     text-align: center;
