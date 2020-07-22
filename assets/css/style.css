@@ -105,7 +105,8 @@ nav .active, .dropdown-item.active, .dropdown-item:active {
     padding: 5px;
     background-color: #803500;
     border-color: #803500;
-    border: 2px 0 2px 0;
+    border-bottom: 2px;
+    border-top: 2px;
 }
 
 .site-wide-alert a{
