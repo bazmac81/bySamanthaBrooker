@@ -39,7 +39,7 @@ a, a:hover, a:visited {
     color: #000;
 }
 
-p .link, td .link {
+p .link, td .link, label .link {
     color:#779fa1;
     font-weight: bold;
 }
@@ -317,6 +317,10 @@ ol li {
 .send {
     background-color: #779fa1;
     color: #fff;
+}
+
+.privacy {
+    margin: 10px 0 10px 0;
 }
 
 /*---------------------------------  FAQ */
