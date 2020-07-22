@@ -186,6 +186,7 @@ _[Back to Contents](#Contents)_
 - Cooolors.co - a hex color pallette building site
 - Font Awesome - for iconography throughout the site
 - pexels - royalty free stock images
+- compressjpeg - image compression site
 
 _[Back to Contents](#Contents)_
 
