@@ -165,6 +165,8 @@ Below are the bugs identified and how they have been managed:
 - FAQ sections using Bootstrap Accordion focus issue
 - Target of links on homepage Face and Body waxing feature not targeting correct section of treatments page
 - Various typos and spelling corrections
+- Mid screen drop down menu appearing on mobile screens
+- Nev toggle button wrapping on narrow screens
 
 _[Back to Contents](#Contents)_
 
