@@ -162,11 +162,15 @@ Below are the bugs identified and how they have been managed:
 
 - Loading times slow due to image file size
 - Logo rendering causing flickering while applying the relevant Google Font
-- FAQ sections using Bootstrap Accordion focus issue
 - Target of links on homepage Face and Body waxing feature not targeting correct section of treatments page
 - Various typos and spelling corrections
 - Mid screen drop down menu appearing on mobile screens
-- Nev toggle button wrapping on narrow screens
+- Nav toggle button wrapping on narrow screens
+- Face treatments data table breaking outside of container
+- Feature content overflowing container on some screen sizes
+
+### Known bugs
+- FAQ sections using Bootstrap Accordion focus issue
 
 _[Back to Contents](#Contents)_
 
