@@ -267,6 +267,7 @@ nav .active, .dropdown-item.active, .dropdown-item:active {
 
 .table {
     width: 100%;
+    table-layout: fixed;
 }
 
 .table thead th, .table td {
