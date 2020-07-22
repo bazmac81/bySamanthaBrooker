@@ -77,8 +77,16 @@ p .link, td .link {
     transition: all .2s ease-out;
 }
 
-nav .active {
+nav .active, .dropdown-item.active, .dropdown-item:active {
     border-bottom: 2px solid #779fa1;
+    background: none;
+    color: #000;
+
+}
+
+.dropdown-item:hover {
+    background-color: #779fa1;
+    color: #fff;
 }
 
 #dropdown-options{
