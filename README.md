@@ -10,7 +10,6 @@
    - User Goals
    - User Stories
    - Site Owner Goals
-   - User Requirements & Expectations
    - Design Choices
       - Fonts
       - Icons
@@ -75,9 +74,6 @@ The site owner has the following goals that they wish to achieve from this proje
 - Be mobile friendly with a **responsive layout design** for a smooth desktop experience
 - Be **clean and simple** in design and not be perceived as overloaded and cluttered with excessive content
 - Allow customers to **make full or part payments** and track this for easy management of bookings and payments
-
-
-### User Requirements & Expectations
 
 ### Design Choices
 Sam has been using a logo on some of her social media channels since she setup her business. The thing she was keen to do was ensure it represents the personal touch that comes from her being a sole trader and the person that her customers will interact with.
@@ -313,11 +309,12 @@ Reference Books I have used when building this site:
 - [HTML & CSS: Design and build websites by Jon Duckett](http://www.htmlandcssbook.com/) - to easily look up key terms / attribute names etc.
 
 Reference sites to build knowledge on technologies covered in the first 3 modules of the course; HTML Fundamentals, CSS Fundamentals, and User Centric Frontend Development:
-- [coomonmark.org](https://commonmark.org/help/) - to better understand markd down for creating the README.md file
-- [Stormotion.io](https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/) - Tips on how to write good User Stories
-- [lullabot.com](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility) - to understand more on ARIA in making websites accessible
-- [medium.com](https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71) - Better understand how to manipulate the navbar elements of Bootstrap
-- [codepen.io](https://codepen.io/davecross/pen/dpNAQg) - used to create a hover effect for the nav bar links
+- [https://commonmark.org/help/](https://commonmark.org/help/) - to better understand markd down for creating the README.md file
+- [https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/](https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/) - Tips on how to write good User Stories
+- [https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility) - to understand more on ARIA in making websites accessible
+- [https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71](https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71) - Better understand how to manipulate the navbar elements of Bootstrap
+- [https://codepen.io/davecross/pen/dpNAQg](https://codepen.io/davecross/pen/dpNAQg) - used to create a hover effect for the nav bar links
+- [stackoverflow](https://www.stackoverflow.com) - used for general trouble shooting and answers to questions for issues.
 
 _[Back to Contents](#Contents)_
 
