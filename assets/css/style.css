@@ -172,6 +172,10 @@ nav .active, .dropdown-item.active, .dropdown-item:active {
     object-fit: cover;
 }
 
+.card-body {
+    overflow: auto;
+}
+
 .card-body h2 {
     margin-top: 20px;
 }
