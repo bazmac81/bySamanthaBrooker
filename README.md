@@ -228,7 +228,10 @@ Below are the bugs identified through the various stages of testing and how they
 - Broken contact me link on FAQ and Treatments pages
    - **Issue:** A place holder contact link was added to the FAQ head copy but not connected correctly to the contact me modal. 
    - **Fix:** Correctly styled the link and connected it to the contact me modal so behave consistently with all contact links across the site.
-
+- Contact icon in footer jumping to top
+   - **Issue:** When clicked, the screen will go to the top of the page before opening the modal due to a redundant `a` tag wrapping the icon content
+   - **Fix:** Remove the redundant `a` tag from the icon acroos all pages
+   
 ### Known Issues
 Below is a list of known bugs that are either not able to be resolved at this time due or are outside the scope of this project. They will be factored into the development of future releases to have them resolved.
 
