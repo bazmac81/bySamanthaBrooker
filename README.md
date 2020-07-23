@@ -163,16 +163,39 @@ _[Back to Contents](#Contents)_
 Below are the bugs identified and how they have been managed:
 
 - Loading times slow due to image file size
-- Logo rendering causing flickering while applying the relevant Google Font
+   - **Issue:** The stock image default sizes were large and caused pages to load slowly.
+   - **Fix:** I ran the images through an image compressor site to reduce to image size to less than 50% to improve this.
+- Logo rendering causing flickering while applying the relevant Google Fonts
+   - **Issue:** As the page loads the logo text loads in a default system font before applying the required Google Font
+   - **Fix:** For consistency in loading and responsive design the logo was converted to an image.
 - Target of links on homepage Face and Body waxing feature not targeting correct section of treatments page
+   - **Issue:** The features on the homepage link through to relevant pages of the site. The first two features link to different sections of the same page. The face and body treamtments feature should have linked to the treatments-list anchor but instead linked to the news1 anchor which is for brow lamination.
+   - **Fix:** Upated the link to target the correct id on the page
 - Various typos and spelling corrections
+   - **Issue:** As part of collating, entering and copying in content there were various typos and grammatical errors.
+   - **Fix:** Re-reading each page and updating and correcting the relevant issues also highlighted from user testing.
 - Mid screen drop down menu appearing on mobile screens
+   - **Issue:** The dropdown introduced into the nav bar to prevent the menu items from crashing into each other also appeared in smaller mobile views as part of the toggle effect.
+   - **Fix:** Adjusted the bootstrap breakpoint system so that the dropdown menu only appears at medium screen sizes.
 - Nav toggle button wrapping on narrow screens
+   - **Issue:** The nav menu has been built to appear on a sinlge line. At smaller screens the nav bar toggle button was wrapping onto a new line.
+   - **Fix:** To facilitate the meny remaining on one line, the icon on the contact me button has been set to only display from sm screen sizes and above.
 - Face treatments data table breaking outside of container
+   - **Issue:** There are 2 tables on the treatments page and the face treatments table was breaking out of its container causing display issues on small screens.
+   - **Fix:** Applied bootstrap width styling to the table to ensure that the table dislpayed as desired at all screen break points.
 - Feature content overflowing container on some screen sizes
+   - **Issue:** At certain screen sizes (xs and between md & lg) the content of the feature cards overflows out of the card crashing into the footer section.
+   - **Fix:** At this time an overflow ccs style has been applied to prevent the content breaking out of its container.
+- Broken contact me link on FAQ and Treatments pages
+   - **Issue:** A place holder contact link was added to the FAQ head copy but not connected correctly to the contact me modal. 
+   - **Fix:** Correctly styled the link and connected it to the contact me modal so behave consistently with all contact links across the site.
 
 ### Known bugs
+Below is a list of known bugs that are either not able to be resolved at this time due or are outside the scope of this project. They will be factored into the development of future releases to have them resolved.
+
 - FAQ sections using Bootstrap Accordion focus issue
+   - **Issue:** The FAQ section utilises the Bootstrap accordion utility to help manage screen space and prevent the content overloading the screen by having everything visibile at once. The issue is then clicking on the header of an FAQ the card expands but pushes the content up making the user scroll to get to the start of the content which is not desirable. 
+   - **Fix:** Having searched for solutions, the fix appears to require Javascript code to help manage the transition as desired and so will be resolved at a later date.
 
 _[Back to Contents](#Contents)_
 
