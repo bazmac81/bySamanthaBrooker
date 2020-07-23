@@ -168,20 +168,28 @@ To validate that the site achieves the goals set out in the planning stage, belo
 
 - As a **site visitor**, I want to find a **list of services** so that I can **find the treatment I require**
 - As a **site visitor**, I want to find the **prices for the treatments** available so I can **understand the cost of a treatment and any offers**
+
 ![treatments-prices](design/live-screens/treatments-prices.png)
 - As a **site visitor**, I want to find **contact details** so that I can **enquire about a treatment or a potential booking**
+
 ![contact](design/live-screens/contact.png)
 - As a **site visitor** I want to find **more about the business practice** so that I can **understand what makes this different from other businesses**
+
 ![faq](design/live-screens/faq.png) ![about sam](design/live-screens/about.png)
 - As a **site visitor**, I want to find information on **how the business is going to manage with COVID** so I am confident **I can book safely**
+
 ![covid](design/live-screens/covid.png)
 - As a **site visitor** I  want to find **customer testimonials** to help understand **quality of service**
+
 ![customer feeback](design/live-screens/feedback.png)
 - As a **site visitor** I want to find links to the **business social media** and see other customers reactions and satisfaction to **verify quality of service**
+
 ![footer social links](design/live-screens/social-footer.png)
 - As a **site visitor** I want to find information on **why waxing would be better than other methods of hair removal** to understand **level of experience** of business
+
 ![faq](design/live-screens/faq.png)
 - As a **site visitor** I want to find information on the **locations that this business operates in** so that I can understand if **I can book a treatment**
+
 ![about sam](design/live-screens/location.png)
 
 ### Peer Code Review
