@@ -149,6 +149,8 @@ _[Back to Contents](#Contents)_
 
 ## Testing <a name="testing"></a>
 - HTML and CSS check using WC3
+
+<a href="https://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="https://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" /></a>
 - User story review
 - Peer Code Review
 - User testing
