@@ -235,6 +235,9 @@ Below are the bugs identified through the various stages of testing and how they
 - Contact icon in footer jumping to top
    - **Issue:** When clicked, the screen will go to the top of the page before opening the modal due to a redundant `a` tag wrapping the icon content
    - **Fix:** Remove the redundant `a` tag from the icon acroos all pages
+- Contact modal button not activating form
+   - **Issue:** As the contact modal is built using a Bootstrap card the buttons in the footer are not connected to the form so do not active when pressed.
+   - **Fix:** Give the form an `id` and add the `form` element to the send button to submit the form. Also inlude the `required` attribute to ensure all relevant details are captured.
 
 ### Known Issues
 Below is a list of known bugs that are either not able to be resolved at this time due or are outside the scope of this project. They will be factored into the development of future releases to have them resolved.
