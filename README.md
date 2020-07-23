@@ -168,21 +168,21 @@ To validate that the site achieves the goals set out in the planning stage, belo
 
 - As a **site visitor**, I want to find a **list of services** so that I can **find the treatment I require**
 - As a **site visitor**, I want to find the **prices for the treatments** available so I can **understand the cost of a treatment and any offers**
-![services and prices]()
+![treatments-prices](design/live-screens/treatments-prices.png)
 - As a **site visitor**, I want to find **contact details** so that I can **enquire about a treatment or a potential booking**
-![contact modal]()
+![contact](design/live-screens/contact.png)
 - As a **site visitor** I want to find **more about the business practice** so that I can **understand what makes this different from other businesses**
-![faq]() ![about sam]()
+![faq](design/live-screens/faq.png) ![about sam](design/live-screens/about.png)
 - As a **site visitor**, I want to find information on **how the business is going to manage with COVID** so I am confident **I can book safely**
-![covid]()
+![covid](design/live-screens/covid.png)
 - As a **site visitor** I  want to find **customer testimonials** to help understand **quality of service**
-![customer feeback]()
+![customer feeback](design/live-screens/feedback.png)
 - As a **site visitor** I want to find links to the **business social media** and see other customers reactions and satisfaction to **verify quality of service**
-![footer social links]()
+![footer social links](design/live-screens/social-footer.png)
 - As a **site visitor** I want to find information on **why waxing would be better than other methods of hair removal** to understand **level of experience** of business
-![faq]()
+![faq](design/live-screens/faq.png)
 - As a **site visitor** I want to find information on the **locations that this business operates in** so that I can understand if **I can book a treatment**
-![about sam]()
+![about sam](design/live-screens/location.png)
 
 ### Peer Code Review
 I posted my site on the Peer Code Review channel to gain feedback. This highlighted the follwing bugs which are detailed in the Bugs and De-bugging section.
@@ -231,7 +231,7 @@ Below are the bugs identified through the various stages of testing and how they
 - Contact icon in footer jumping to top
    - **Issue:** When clicked, the screen will go to the top of the page before opening the modal due to a redundant `a` tag wrapping the icon content
    - **Fix:** Remove the redundant `a` tag from the icon acroos all pages
-   
+
 ### Known Issues
 Below is a list of known bugs that are either not able to be resolved at this time due or are outside the scope of this project. They will be factored into the development of future releases to have them resolved.
 
