@@ -1,4 +1,5 @@
-# By Samantha Brooker
+![logo](assets/images/logo.png)
+
 #### Code Institute Full Stack Development Diploma: Milestone Project 1 - User Centric Frontend Development
 ##### by Barry MacLennan
 
@@ -17,7 +18,12 @@
    - Site Map and Wireframes
    - Features & Future Releases 
 2. [Testing](#testing)
+   - HTML and CSS check using WC3
+   - Peer Code Review
+   - User stories
+   - User testing
 3. [Bugs and De-bugging](#bugs)
+   - Known Issues
 4. [Technologies Used](#tech)
    - Languages Used
    - Tools & Libraries Used
@@ -148,19 +154,52 @@ _[Back to Contents](#Contents)_
 -------------
 
 ## Testing <a name="testing"></a>
-- HTML and CSS check using WC3
+### HTML and CSS check using WC3
+   - All html and CSS files were validated using the W3C validation tools. This did highlight some errors and warnings in relation to the use of some tags and the nesting of tags:
+      - Nesting and `ul` / `ol` in another `ul` / `ol` without sitting it within its own `li` tags - *fixed*
+      - Nesting and `ul` / `ol` in a `p` tag causing an issue - *fixed*
+      - `iframe` border element now redundant - *fixed*
+      - `article` and `section` tags require header child - *fixed*  
+   - Following the required ammendments, all files passed without errors or warnings
+   - <a href="https://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="https://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" /></a>
 
-<a href="https://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="https://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" /></a>
-- User story review
-- Peer Code Review
-- User testing
+### User story review
+To validate that the site achieves the goals set out in the planning stage, below are the user stories and the relevant screen shots that satisfy each requirement in this release.
+
+- As a **site visitor**, I want to find a **list of services** so that I can **find the treatment I require**
+- As a **site visitor**, I want to find the **prices for the treatments** available so I can **understand the cost of a treatment and any offers**
+![services and prices]()
+- As a **site visitor**, I want to find **contact details** so that I can **enquire about a treatment or a potential booking**
+![contact modal]()
+- As a **site visitor** I want to find **more about the business practice** so that I can **understand what makes this different from other businesses**
+![faq]() ![about sam]()
+- As a **site visitor**, I want to find information on **how the business is going to manage with COVID** so I am confident **I can book safely**
+![covid]()
+- As a **site visitor** I  want to find **customer testimonials** to help understand **quality of service**
+![customer feeback]()
+- As a **site visitor** I want to find links to the **business social media** and see other customers reactions and satisfaction to **verify quality of service**
+![footer social links]()
+- As a **site visitor** I want to find information on **why waxing would be better than other methods of hair removal** to understand **level of experience** of business
+![faq]()
+- As a **site visitor** I want to find information on the **locations that this business operates in** so that I can understand if **I can book a treatment**
+![about sam]()
+
+### Peer Code Review
+I posted my site on the Peer Code Review channel to gain feedback. This highlighted the follwing bugs which are detailed in the Bugs and De-bugging section.
+
+### User testing
+I shared the link for the site with various friends to get their feeback. There were a number of bugs highlighted as well as other feedback, including:
+- The Face Treatments Table breaking out of it's container in smaller screens
+- The md screen navbar appearing on small screens unintentionally
+- That users trust testimonials and want to see more - these lead to a change in the home screen to show all customer feeback and remove the screen break formatting that hid some reviews on smaller screens
+- Targeting of feature links on homepage linking through to same page section
 
 _[Back to Contents](#Contents)_
 
 -------------
 ## Bugs and De-bugging <a name="bugs"></a>
 
-Below are the bugs identified and how they have been managed:
+Below are the bugs identified through the various stages of testing and how they have been managed:
 
 - Loading times slow due to image file size
    - **Issue:** The stock image default sizes were large and caused pages to load slowly.
@@ -190,7 +229,7 @@ Below are the bugs identified and how they have been managed:
    - **Issue:** A place holder contact link was added to the FAQ head copy but not connected correctly to the contact me modal. 
    - **Fix:** Correctly styled the link and connected it to the contact me modal so behave consistently with all contact links across the site.
 
-### Known bugs
+### Known Issues
 Below is a list of known bugs that are either not able to be resolved at this time due or are outside the scope of this project. They will be factored into the development of future releases to have them resolved.
 
 - FAQ sections using Bootstrap Accordion focus issue
@@ -205,7 +244,7 @@ _[Back to Contents](#Contents)_
 ### Languages Used
 - HTML5 - base content creation
 - CSS3 - site styling
-- Javascript - Although not in scope to be used, was required to deliver responsive menu functionality
+- Javascript - Although not in scope to be used, was required to deliver some BootStrap utilities and functionality
 
 ### Tools and Libraries Used
 - GitPod, Git and GitHub - Used to create code, manage version control and host the project
