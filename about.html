@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>By Samantha Brooker - About Sam</title>
+    <link rel="icon" type="images/png" href="favicon.png"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+<!-- Navigation Section -->
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-light px-0 px-sm-10">
+            <div class="nav-brand" id="logo">
+                <a href="index.html"><img src="assets/images/logo.png" alt="By Samantha Brooker logo" class="logo"></a>
+            </div>
+            
+            <div class="order-sm-1 d-inline contact-me ml-auto">
+                <button class="btn btn--cta" type="button" data-toggle="modal" data-target="#contactme">
+                    <i class="far fa-envelope d-none d-sm-inline"></i> Contact Me
+                </button>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+                
+            <div class="collapse navbar-collapse order-sm-0" id="navbarNav">
+                <div class="navbar-nav nav-justified" role="navigation">
+                    <a href="index.html" class="nav-item nav-link">Home</a>
+                    <a href="treatments.html" class="nav-item nav-link">Treatments</a>
+                    <a class="nav-item nav-link dropdown dropdown-toggle d-none d-md-inline-block d-lg-none" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More...</a>
+                        <div class="dropdown-menu dropdown-menu-right" id="dropdown-options">
+                            <a href="covid.html" class="dropdown-item">COVID-19</a>
+                            <a href="faq.html" class="dropdown-item">FAQ</a>
+                            <a href="about.html" class="dropdown-item active">About</a>
+                        </div>
+                    <a href="covid.html" class="nav-item nav-link d-md-none d-lg-inline">COVID-19</a>
+                    <a href="faq.html" class="nav-item nav-link d-md-none d-lg-inline">FAQ</a>
+                    <a href="about.html" class="nav-item nav-link d-md-none d-lg-inline active">About</a>
+                </div>
+            </div>
+        </nav>
+        
+        <div class="container-fluid alert-container d-block">
+            <div class="site-wide-alert alert alert-warning">
+                <a href="covid.html">Check out how I'm managing with COVID-19</a>
+            </div>
+        </div>
+    </header>
+
+<!-- About page content -->
+    <main class="container-fluid">
+        <!-- Page main image -->
+        <div class="row">
+            <div class="col callout about"></div>
+        </div>
+
+        <!-- Page content items -->
+        <div class="row features justify-content-center">
+            <div class="col-12 col-sm-10 feature">
+                <div class="row item-about">
+                    <div class="col">
+                        <h2>About Sam</h2>
+                        <p>
+                            With an extensive background within the beauty industry Sam has developed a great passion for helping women to feel great about themselves. The simplicity of an eyebrow wax or the de-fuzz ready for your summer holiday can have a huge impact on how we feel and Sam believes that her experience combined with carrying out your treatment in the comfort of your own home adds up to the perfect experience.
+                        </p>
+                        <p>
+                            Sam has previously worked in corporate retail operating as a Head of Training and has worked in many different environments such as QVC, Professional Beauty, Fashion Week, Retail Stores and Salon Environments.
+                        </p>
+                        <p>
+                            Specialising in brow shaping Sam has become an authority in all things brows ensuring you get the very best for you whilst keeping up to date with innovative techniques.
+                        </p>
+                        <blockquote class="blockquote">
+                            “I’ve always been fascinated how a single brow hair can have the ability to change the whole eye area. Everyone deserves to know what a great pair of brows can do for them!”
+                        </blockquote>
+                    </div>
+                </div>
+                <div class="row item-where">
+                    <div class="col-12 col-sm-6">  
+                        <h2>Where to find me</h2>
+                        <p>
+                            I operate in South Essex, specifically in the SS17 and RM16 postal code area. If you would like to have a consultation to discuss my treatments give me a call or use the Contact Me button to get in touch. If you live outside of this area the quickest way to arrange a consultation will be to use the Contact Me button and I will get back to you with options depending on where you're based.
+                        </p>
+                    </div>
+                    <div class="col-12 col-sm-6 map">
+                        <iframe class="location" src="https://www.google.com/maps/d/embed?mid=17e8V3Gv6f7ObmqOAmrdj1sDjT8Ns0n9F" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+<!-- Footer section -->
+    <footer class="container-fluid footer">
+        <div class="row text-center">
+            <div class="col-4 mx-auto">
+                <a href="https://www.facebook.com/BySamanthaBrooker/" target="_blank">
+                    <span class="footer-icon"><i class="fab fa-facebook"></i></span>
+                </a>
+            </div>
+            <div class="col-4">
+                <a href="https://www.instagram.com/bysamanthabrooker/" target="_blank">
+                    <span class="footer-icon"><i class="fab fa-instagram"></i></span>
+                </a>
+            </div>
+            <div class="col-4">
+                <span class="footer-icon" data-toggle="modal" data-target="#contactme"><i class="far fa-envelope"></i></span>
+            </div>
+        </div>
+    </footer>
+
+<!-- Contact Me Modal -->
+    <div class="modal fade" id="contactme" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-label="contactMeForm" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content container-fluid">
+                <div class="modal-header">
+                    <h2 class="modal-title">Get in touch...</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Hi, thank you for showing an interest. Please complete the details below if you would like to know more about the treatments I offer or to make a booking. I'll be in contact with you soon.</p>
+                    <form class="row justify-content-center" id="privacy">
+                        <label for="firstname" class="col-form-label col-5">First Name:</label>
+                        <input type="text" id="firstname" class="col-7 form-control" required/>
+                        <label for="surname" class="col-form-label col-5">Surname:</label>
+                        <input type="text" id="surname" class="col-7 form-control" required/>
+                        <label for="email" class="col-form-label col-5">Email:</label>
+                        <input type="email" id="email" class="col-7 form-control" placeholder="name@domain.com" required/>
+                        <label for="mobile" class="col-form-label col-5">Mobile No:</label>
+                        <input type="number" id="mobile" class="col-7 form-control" placeholder="07700 000000" required/>
+                        <label for="postcode" class="col-form-label col-8">First part of Postcode:</label>
+                        <input type="text" id="postcode" class="col-4 form-control" placeholder="SS17" required/>
+                        <small>I operate mainly in the SS17 (Thurrock, Essex) area but I am open to work in other areas in Essex. By sharing your postcode you help me understand where there is interest.</small>
+                        <div class="form-check d-inline-block privacy">
+                            <input type="checkbox" id="privacy-check" name="privacy-check" value="agree" class="form-check-input" required/>
+                            <label for="privacy-check" class="form-check-label">I agree to the <a href="#privacy-policy" class="link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="privacy-policy">privacy policy</a></label>
+                        </div>
+                        <div class="collapse" id="privacy-policy">
+                            <div class="card card-body small">
+                                <h4>Privacy policy</h4>
+                                <ul>
+                                    <li>By agreeing to this privacy policy and submitting your information you are agreeing for a representative of By Samantha Brooker to contact you</li>
+                                    <li>Your details will only be used for contact regarding your query and will not be used for any marketing purposes and will not be added to any marketing databases</li>
+                                    <li>Your details will not be shared or sold to any third parties</li>
+                                    <li>Your details will not be stored unless you become a client of By Samantha Brooker and book an appoinment, at which time:</li>
+                                    <li>
+                                        <ul>
+                                            <li>Your contact details will be stored and used to maintain contact when arranging and managing bookings</li>
+                                            <li>Your details will be stored as long as you are an active client of By Samantha Brooker</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                     </form>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button class="btn send" form="privacy" type="submit">Send</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap Javascript CDN for collapsable menu -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+</body>
+</html>
